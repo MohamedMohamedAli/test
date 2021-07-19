@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DAC6_Arrangement xmlns="urn:eu:taxud:dac6:v1" version="4.04">
+    <Header>
+        <TransmittingCountry>IT</TransmittingCountry>
+        <ReceivingCountries>IT</ReceivingCountries>
+        <MessageRefId>IT2021-MRTLSN86E21F152GBA01623281047967</MessageRefId>
+        <Timestamp>2021-06-10T01:22:46.981+01:00</Timestamp>
+    </Header>
+    <ArrangementID>ITA20191008652321</ArrangementID>
+    <DAC6Disclosures>
+        <DisclosureID>ITD20180710123656</DisclosureID>
+        <DisclosureImportInstruction>DAC6INI</DisclosureImportInstruction>
+        <Language>IT</Language>
+        <Disclosing>
+            <ID>
+                <Individual>
+                    <IndividualName>
+                        <FirstName>disclosuret</FirstName>
+                        <LastName>1</LastName>
+                    </IndividualName>
+                    <BirthDate>2021-06-12</BirthDate>
+                    <BirthPlace>1</BirthPlace>
+                    <TIN issuedBy="IT">MRTLSN86E21F152G</TIN>
+                    <Address>
+                        <Street>1</Street>
+                        <City>1</City>
+                        <Country>AX</Country>
+                    </Address>
+                    <EmailAddress>1@1.1</EmailAddress>
+                    <ResCountryCodes>
+                        <ResCountryCode>IT</ResCountryCode>
+                    </ResCountryCodes>
+                </Individual>
+            </ID>
+            <Liability>
+                <RelevantTaxpayerDiscloser>
+                    <RelevantTaxpayerNexus>RTNEXa</RelevantTaxpayerNexus>
+                </RelevantTaxpayerDiscloser>
+            </Liability>
+        </Disclosing>
+        <InitialDisclosureMA>false</InitialDisclosureMA>
+        <RelevantTaxPayers>
+            <RelevantTaxpayer>
+                <ID>
+                    <Individual>
+                        <IndividualName>
+                            <FirstName>taxpayer</FirstName>
+                            <LastName>2</LastName>
+                        </IndividualName>
+                        <BirthDate>2021-06-10</BirthDate>
+                        <BirthPlace>1</BirthPlace>
+                        <TIN issuedBy="AX">900989</TIN>
+                        <ResCountryCodes>
+                            <ResCountryCode>AX</ResCountryCode>
+                        </ResCountryCodes>
+                    </Individual>
+                </ID>
+                <AssociatedEnterprises>
+                    <AssociatedEnterprise>
+                        <AssociatedEnterpriseID>
+                            <Individual>
+                                <IndividualName>
+                                    <FirstName>enterprise</FirstName>
+                                    <LastName>2-1</LastName>
+                                </IndividualName>
+                                <BirthDate>2021-06-11</BirthDate>
+                                <BirthPlace>1</BirthPlace>
+                                <TIN issuedBy="AX">913263</TIN>
+                                <ResCountryCodes>
+                                    <ResCountryCode>AX</ResCountryCode>
+                                </ResCountryCodes>
+                            </Individual>
+                        </AssociatedEnterpriseID>
+                        <AffectedPerson>false</AffectedPerson>
+                    </AssociatedEnterprise>
+                </AssociatedEnterprises>
+            </RelevantTaxpayer>
+            <RelevantTaxpayer>
+                <ID>
+                    <Individual>
+                        <IndividualName>
+                            <FirstName>disclosuret</FirstName>
+                            <LastName>1</LastName>
+                        </IndividualName>
+                        <BirthDate>2021-06-12</BirthDate>
+                        <BirthPlace>1</BirthPlace>
+                        <TIN issuedBy="IT">MRTLSN86E21F152G</TIN>
+                        <Address>
+                            <Street>1</Street>
+                            <City>1</City>
+                            <Country>AX</Country>
+                        </Address>
+                        <EmailAddress>1@1.1</EmailAddress>
+                        <ResCountryCodes>
+                            <ResCountryCode>IT</ResCountryCode>
+                        </ResCountryCodes>
+                    </Individual>
+                </ID>
+                <AssociatedEnterprises>
+                    <AssociatedEnterprise>
+                        <AssociatedEnterpriseID>
+                            <Individual>
+                                <IndividualName>
+                                    <FirstName>enterprise</FirstName>
+                                    <LastName>disclosing</LastName>
+                                </IndividualName>
+                                <BirthDate>2021-06-09</BirthDate>
+                                <BirthPlace>1</BirthPlace>
+                                <TIN issuedBy="AL">204419</TIN>
+                                <ResCountryCodes>
+                                    <ResCountryCode>AX</ResCountryCode>
+                                </ResCountryCodes>
+                            </Individual>
+                        </AssociatedEnterpriseID>
+                        <AffectedPerson>false</AffectedPerson>
+                    </AssociatedEnterprise>
+                </AssociatedEnterprises>
+            </RelevantTaxpayer>
+        </RelevantTaxPayers>
+        <AffectedPersons>
+            <AffectedPerson>
+                <AffectedPersonID>
+                    <Individual>
+                        <IndividualName>
+                            <FirstName>affected</FirstName>
+                            <LastName>3</LastName>
+                        </IndividualName>
+                        <BirthDate>2021-06-04</BirthDate>
+                        <BirthPlace>3</BirthPlace>
+                        <TIN issuedBy="AX">047431</TIN>
+                        <ResCountryCodes>
+                            <ResCountryCode>AL</ResCountryCode>
+                        </ResCountryCodes>
+                    </Individual>
+                </AffectedPersonID>
+            </AffectedPerson>
+            <AffectedPerson>
+                <AffectedPersonID>
+                    <Individual>
+                        <IndividualName>
+                            <FirstName>affected</FirstName>
+                            <LastName>4</LastName>
+                        </IndividualName>
+                        <BirthDate>2021-06-22</BirthDate>
+                        <BirthPlace>4</BirthPlace>
+                        <TIN issuedBy="AD">043742</TIN>
+                        <ResCountryCodes>
+                            <ResCountryCode>AL</ResCountryCode>
+                        </ResCountryCodes>
+                    </Individual>
+                </AffectedPersonID>
+            </AffectedPerson>
+        </AffectedPersons>
+        <DisclosureInformation>
+            <ImplementingDate>2021-06-10</ImplementingDate>
+            <Summary>
+                <Disclosure_Name>1</Disclosure_Name>
+                <Disclosure_Description language="IT">1</Disclosure_Description>
+                <Disclosure_Description language="EN">2</Disclosure_Description>
+            </Summary>
+            <NationalProvision language="IT">1</NationalProvision>
+            <Amount currCode="AFN">2</Amount>
+            <ArrangementChart Void="true">
+                <ListChilds>
+                    <ChildRTP>
+                        <Ownership>1</Ownership>
+                        <InvestAmount currCode="ANG">1</InvestAmount>
+                        <OtherInfo language="IT">disclosing 1 - - - &gt; child (disclosing enterprise)</OtherInfo>
+                        <ListChilds>
+                            <ChildRTP>
+                                <Ownership>11</Ownership>
+                                <InvestAmount currCode="AOA">11</InvestAmount>
+                                <OtherInfo language="IT">disclosing enterprise</OtherInfo>
+                                <ID>
+                                    <Individual>
+                                        <IndividualName>
+                                            <FirstName>enterprise</FirstName>
+                                            <LastName>disclosing</LastName>
+                                        </IndividualName>
+                                        <BirthDate>2021-06-09</BirthDate>
+                                        <BirthPlace>1</BirthPlace>
+                                        <TIN issuedBy="AL">204419</TIN>
+                                        <ResCountryCodes>
+                                            <ResCountryCode>AX</ResCountryCode>
+                                        </ResCountryCodes>
+                                    </Individual>
+                                </ID>
+                            </ChildRTP>
+                        </ListChilds>
+                        <ID>
+                            <Individual>
+                                <IndividualName>
+                                    <FirstName>disclosuret</FirstName>
+                                    <LastName>1</LastName>
+                                </IndividualName>
+                                <BirthDate>2021-06-12</BirthDate>
+                                <BirthPlace>1</BirthPlace>
+                                <TIN issuedBy="IT">MRTLSN86E21F152G</TIN>
+                                <Address>
+                                    <Street>1</Street>
+                                    <City>1</City>
+                                    <Country>AX</Country>
+                                </Address>
+                                <EmailAddress>1@1.1</EmailAddress>
+                                <ResCountryCodes>
+                                    <ResCountryCode>IT</ResCountryCode>
+                                </ResCountryCodes>
+                            </Individual>
+                        </ID>
+                    </ChildRTP>
+                    <ChildRTP>
+                        <Ownership>2</Ownership>
+                        <InvestAmount currCode="AMD">2</InvestAmount>
+                        <OtherInfo language="IT">disclosing 2 - - - &gt; child [2 taxpayer]</OtherInfo>
+                        <ListChilds>
+                            <ChildRTP>
+                                <Ownership>21</Ownership>
+                                <InvestAmount currCode="ALL">21</InvestAmount>
+                                <OtherInfo language="IT">2 taxpayer - - - &gt; [2-1 enterprise]</OtherInfo>
+                                <ListChilds>
+                                    <ChildRTP>
+                                        <Ownership>11</Ownership>
+                                        <InvestAmount currCode="AFN">211</InvestAmount>
+                                        <OtherInfo language="IT">2-1 enterprise</OtherInfo>
+                                        <ID>
+                                            <Individual>
+                                                <IndividualName>
+                                                    <FirstName>enterprise</FirstName>
+                                                    <LastName>2-1</LastName>
+                                                </IndividualName>
+                                                <BirthDate>2021-06-11</BirthDate>
+                                                <BirthPlace>1</BirthPlace>
+                                                <TIN issuedBy="AX">913263</TIN>
+                                                <ResCountryCodes>
+                                                    <ResCountryCode>AX</ResCountryCode>
+                                                </ResCountryCodes>
+                                            </Individual>
+                                        </ID>
+                                    </ChildRTP>
+                                </ListChilds>
+                                <ID>
+                                    <Individual>
+                                        <IndividualName>
+                                            <FirstName>taxpayer</FirstName>
+                                            <LastName>2</LastName>
+                                        </IndividualName>
+                                        <BirthDate>2021-06-10</BirthDate>
+                                        <BirthPlace>1</BirthPlace>
+                                        <TIN issuedBy="AX">900989</TIN>
+                                        <ResCountryCodes>
+                                            <ResCountryCode>AX</ResCountryCode>
+                                        </ResCountryCodes>
+                                    </Individual>
+                                </ID>
+                            </ChildRTP>
+                        </ListChilds>
+                        <ID>
+                            <Individual>
+                                <IndividualName>
+                                    <FirstName>disclosuret</FirstName>
+                                    <LastName>1</LastName>
+                                </IndividualName>
+                                <BirthDate>2021-06-12</BirthDate>
+                                <BirthPlace>1</BirthPlace>
+                                <TIN issuedBy="IT">MRTLSN86E21F152G</TIN>
+                                <Address>
+                                    <Street>1</Street>
+                                    <City>1</City>
+                                    <Country>AX</Country>
+                                </Address>
+                                <EmailAddress>1@1.1</EmailAddress>
+                                <ResCountryCodes>
+                                    <ResCountryCode>IT</ResCountryCode>
+                                </ResCountryCodes>
+                            </Individual>
+                        </ID>
+                    </ChildRTP>
+                    <ChildRTP>
+                        <Ownership>3</Ownership>
+                        <InvestAmount currCode="AMD">3</InvestAmount>
+                        <OtherInfo language="IT">disclosing 3 - - - &gt; child [3 affected, 4 affected]</OtherInfo>
+                        <ListChilds>
+                            <ChildRTP>
+                                <Ownership>31</Ownership>
+                                <InvestAmount currCode="AED">31</InvestAmount>
+                                <OtherInfo language="IT">3 affected</OtherInfo>
+                                <ID>
+                                    <Individual>
+                                        <IndividualName>
+                                            <FirstName>affected</FirstName>
+                                            <LastName>3</LastName>
+                                        </IndividualName>
+                                        <BirthDate>2021-06-04</BirthDate>
+                                        <BirthPlace>3</BirthPlace>
+                                        <TIN issuedBy="AX">047431</TIN>
+                                        <ResCountryCodes>
+                                            <ResCountryCode>AL</ResCountryCode>
+                                        </ResCountryCodes>
+                                    </Individual>
+                                </ID>
+                            </ChildRTP>
+                            <ChildRTP>
+                                <Ownership>32</Ownership>
+                                <InvestAmount currCode="AMD">32</InvestAmount>
+                                <OtherInfo language="IT">4 affected</OtherInfo>
+                                <ID>
+                                    <Individual>
+                                        <IndividualName>
+                                            <FirstName>affected</FirstName>
+                                            <LastName>4</LastName>
+                                        </IndividualName>
+                                        <BirthDate>2021-06-22</BirthDate>
+                                        <BirthPlace>4</BirthPlace>
+                                        <TIN issuedBy="AD">043742</TIN>
+                                        <ResCountryCodes>
+                                            <ResCountryCode>AL</ResCountryCode>
+                                        </ResCountryCodes>
+                                    </Individual>
+                                </ID>
+                            </ChildRTP>
+                        </ListChilds>
+                        <ID>
+                            <Individual>
+                                <IndividualName>
+                                    <FirstName>disclosuret</FirstName>
+                                    <LastName>1</LastName>
+                                </IndividualName>
+                                <BirthDate>2021-06-12</BirthDate>
+                                <BirthPlace>1</BirthPlace>
+                                <TIN issuedBy="IT">MRTLSN86E21F152G</TIN>
+                                <Address>
+                                    <Street>1</Street>
+                                    <City>1</City>
+                                    <Country>AX</Country>
+                                </Address>
+                                <EmailAddress>1@1.1</EmailAddress>
+                                <ResCountryCodes>
+                                    <ResCountryCode>IT</ResCountryCode>
+                                </ResCountryCodes>
+                            </Individual>
+                        </ID>
+                    </ChildRTP>
+                </ListChilds>
+            </ArrangementChart>
+            <ConcernedMSs>
+                <ConcernedMS>IT</ConcernedMS>
+            </ConcernedMSs>
+            <MainBenefitTest1>false</MainBenefitTest1>
+            <Hallmarks>
+                <ListHallmarks>
+                    <Hallmark>DAC6C1bii</Hallmark>
+                </ListHallmarks>
+            </Hallmarks>
+        </DisclosureInformation>
+    </DAC6Disclosures>
+</DAC6_Arrangement>

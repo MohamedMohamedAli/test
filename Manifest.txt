@@ -1,0 +1,3 @@
+Main-Class: Main
+Specification-Title: DAC6 Helper V4
+Specification-Version: 1.0
